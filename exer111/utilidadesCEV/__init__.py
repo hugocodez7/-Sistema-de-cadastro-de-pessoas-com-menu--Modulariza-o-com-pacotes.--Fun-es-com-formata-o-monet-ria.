@@ -1,1 +1,1 @@
-from exer111.utilidadesCEV import moeda, dado
+from utilidadesCEV import moeda, dado

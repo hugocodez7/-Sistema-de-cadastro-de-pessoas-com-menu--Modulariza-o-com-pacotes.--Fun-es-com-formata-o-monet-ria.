@@ -1,4 +1,4 @@
-from exer111.utilidadesCEV import moeda
+from utilidadesCEV import moeda
 
 preco = float(input('Digite o preço: R$ '))
 moeda.resumo(preco, 70, 30)

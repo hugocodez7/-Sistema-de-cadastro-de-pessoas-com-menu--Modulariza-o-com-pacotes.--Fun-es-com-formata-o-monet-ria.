@@ -1,4 +1,4 @@
-from exer109 import moeda
+import moeda
 
 preco = float(input('Digite o preço: R$ '))
 print(f'A metade de {moeda.moeda(preco)} é {moeda.metade(preco,True)}')
