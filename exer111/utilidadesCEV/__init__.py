@@ -1,0 +1,1 @@
+from exer111.utilidadesCEV import moeda, dado
