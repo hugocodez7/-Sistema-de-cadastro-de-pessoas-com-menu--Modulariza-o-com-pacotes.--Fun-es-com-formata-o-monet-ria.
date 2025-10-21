@@ -1,5 +1,6 @@
-from exer115.blibi.interface import *
-from exer115.blibi.arquivo import *
+from bibliotecas.interface import *
+from bibliotecas.arquivo import *
+
 
 arq = 'guanabara.txt'
 if not arquivoExiste(arq):
